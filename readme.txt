@@ -1,0 +1,1 @@
+SpaceRangers(c)developed by Kholod Olexander
