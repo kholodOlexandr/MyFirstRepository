@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\EnemyBase.cs">
+    <Files>
+      <File FileName="Assets\scripts\BulletController.cs" Line="25" Column="6" />
+      <File FileName="Assets\scripts\EnemyController.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\EnemyBase.cs" Line="24" Column="52" />
+      <File FileName="Assets\scripts\AShip.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Score.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\MenuScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\HealthBar.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
